@@ -1,0 +1,2 @@
+/home/dingli/gitprojects/Nox/ColorCheckerScript/apps/a2z.Mobile.DevConnections.apk 9 36
+/home/dingli/gitprojects/Nox/ColorCheckerScript/a2z.Mobile.DevConnections.apk 6 39
