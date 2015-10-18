@@ -30,6 +30,6 @@ fi
 
 # 2. Start command
 ant build
-adb push bin/TestApp.jar /data/local/tmp/
+adb push TestApp.jar /data/local/tmp/
 adb shell /data/local/tmp/haos runtest TestApp.jar -c nsl.stg.tests.LaunchApp
 

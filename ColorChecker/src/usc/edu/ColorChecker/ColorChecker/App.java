@@ -87,7 +87,7 @@ public class App {
             return ;
         }
         long time1=System.currentTimeMillis();
-        sysAPI.add("void setAlpha(float)");
+        //sysAPI.add("void setAlpha(float)");
         //sysAPI.add("void setAnimation(android.view.animation.Animation)");
         //sysAPI.add("void setBackground(android.graphics.drawable.Drawable)");
         sysAPI.add("void setBackgroundColor(int)");
